@@ -1,5 +1,5 @@
 # 📊 KK’s Customer Behavior & Retention Dashboard
-<img width="680" height="400" alt="overview-dashboard" src="https://github.com/user-attachments/assets/81fa39bc-d7e0-41cc-a706-52e6c391c6b1" />
+<img width="800" height="400" alt="overview-dashboard" src="https://github.com/user-attachments/assets/81fa39bc-d7e0-41cc-a706-52e6c391c6b1" />
 
 A Power BI dashboard project focused on analyzing **customer segments**, **retention patterns**, and **purchase behavior** to uncover actionable business insights.
 
