@@ -153,4 +153,4 @@ If you'd like to connect, collaborate, or discuss opportunities, feel free to re
 
 ## ⭐ If you found this project interesting...
 
-Feel free to **star this repository** and connect with me on LinkedIn.
+Feel free to **star this repository** and connect with me on LinkedIn @https://www.linkedin.com/in/kelvin-etisi-39704a259/overlay/contact-info
