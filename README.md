@@ -280,10 +280,10 @@ This repository contains the following project files:
 
 
 ### Customer Retention
-![Customer Retention](<img width="599" height="337" alt="retention-dashboard" src="https://github.com/user-attachments/assets/160167bf-26b0-4575-93f9-64a74239a797" />)
+(<img width="599" height="337" alt="retention-dashboard" src="https://github.com/user-attachments/assets/160167bf-26b0-4575-93f9-64a74239a797" />)
 
 ### Customer Purchase Behavior
-![Customer Purchase Behavior](<img width="599" height="337" alt="retention-dashboard" src="https://github.com/user-attachments/assets/160167bf-26b0-4575-93f9-64a74239a797" />)
+(<img width="599" height="337" alt="retention-dashboard" src="https://github.com/user-attachments/assets/160167bf-26b0-4575-93f9-64a74239a797" />)
 
 ---
 
